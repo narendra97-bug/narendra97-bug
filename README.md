@@ -12,7 +12,7 @@
 
 
 ## 🛠 Skills
-## Javascript, HTML, CSS,Node.js,React.js,Express.js,mongoDb,sql,rest APIS,C++,Python,Data structures & Algorithms,Frontend development,Backend development.
+## Javascript, HTML, CSS,Node.js,React.js,Express.js,mongoDb,sql,rest APIs,C++,Python,Data structures & Algorithms,Frontend development,Backend development.
 
 
 ## currently working on...
