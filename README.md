@@ -17,20 +17,8 @@
 
 ## currently working on...
 👩‍💻 I'm currently working on MERN stack project.
-
-🧠 I'm currently learning advanced frontend and backend.
-
 👯‍♀️ I'm looking to collaborate on exciting projects.
 
-
-
-💬 Ask me about..any development problem.
-
-📫 How to reach me...just send a message.
-
-😄 Pronouns..it's 'narendra' not 'narendar'.
-
-⚡️ Fun fact...wanna learn everything in a day.
 
 
 
@@ -40,7 +28,7 @@
 
 **Client:** React, Redux,Bootstrap
 
-**Server:** Node, Express,mongoDb
+**Server:** Node, Express,mongoDb,SQL
 
 
 ## Feedback
